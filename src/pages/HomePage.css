@@ -1,0 +1,20 @@
+/* HomePage.css */
+
+
+.home-page h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.home-page small {
+    font-size: 0.9rem; /* 调整小字的大小 */
+    color: #a5be15;       /* 设置小字颜色 */
+}
+
+.home-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
